@@ -30,7 +30,7 @@ git init
 
 ## relacionar la carpeta con el repositorio remoto creado
 
-git remote add origin https://github.com/pdavid1/todoapp.git
+git remote add origin https://github.com/pdavid1/my-dashboard.git
 
 ## subir los cambios
 
